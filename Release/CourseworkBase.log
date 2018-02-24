@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (E:\BasicOpenGLGame\/Release\) contains files shared from another project (CourseworkBase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BoxObject.cpp
+  EngineController.cpp
+  PlayerObject.cpp
+  TTileManager.cpp
+  FeedObject.cpp
+  mainfunction.cpp
+  BaseEngine.cpp
+  DisplayableObject.cpp
+  FontManager.cpp
+  JPGImage.cpp
+  TileManager.cpp
+  Generating Code...
+  CourseworkBase.vcxproj -> E:\BasicOpenGLGame\/Release\TheFall.exe
